@@ -1,9 +1,9 @@
 
 function myAnimal() {var myAnimal = 'dog'; return myAnimal}
 
-var theFunk = function funkyFunction() {return "FUNKY!"};
 
-function funkyFunction(){return "FUNKY!"};
+
+function funkyFunction(){var theFunk = function funkyFunction() {return "FUNKY!"};return "FUNKY!"}
 
 function yourAnimal() {var yourAnimal = "cat"; return yourAnimal}
   // How can we make sure that this function
