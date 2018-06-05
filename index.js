@@ -1,10 +1,6 @@
 
 function myAnimal() {var myAnimal = 'dog'; return myAnimal}
 
-
-
-function funkyFunction(){var theFunk = function funkyFunction() {return "FUNKY!"};return "FUNKY!"}
-
 function yourAnimal() {var yourAnimal = "cat"; return yourAnimal}
   // How can we make sure that this function
   // and the above function both pass?
@@ -22,6 +18,8 @@ const two = 2;
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
+
+function funkyFunction(){var theFunk = function funkyFunction() {return "FUNKY!"};return "FUNKY!"}
 
 var theFunk = function funkyFunction() {return "FUNKY!"};
 var funkyFunction()
