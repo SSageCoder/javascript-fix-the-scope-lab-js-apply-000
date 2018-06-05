@@ -13,10 +13,10 @@ const n = 657;
 const two = 2;
   // Feel free to move things around!
 
-
+function funkyFunction() {var funkyFunction =
 theFunk = 
 
-function funkyFunction(){var theFunk = function funkyFunction() {return "FUNKY!"};return "FUNKY!"}
+(){var theFunk = function funkyFunction() {return "FUNKY!"};return "FUNKY!"}
 var theFunk = function funkyFunction() {return "FUNKY!"; {return "FUNKY!"}}
 
   
