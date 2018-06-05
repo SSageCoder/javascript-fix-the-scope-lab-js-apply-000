@@ -20,12 +20,12 @@ const two = 2;
 // NOTE: you only need to modify the code below this line.
 
 
-function funkyFunction() {return "FUNKY!"}
+function funkyFunction() 
 
 var funkyFunction = function() var theFunk = funkyFunction(); { return function() {
  return "FUNKY!"};
 };
 
 var funkyFunction = function() {return "FUNKY!"};
-function theFunk = function funkyFunction()
+function theFunk = function funkyFunction(){return "FUNKY!"}
   
