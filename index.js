@@ -13,7 +13,7 @@ const n = 657;
 const two = 2;
   // Feel free to move things around!
 
-function return funkyFunction() {var funkyFunction ={return "FUNKY!"}
+var freefunction = return funkyFunction() {var funkyFunction ={return "FUNKY!"}
 
 
 var theFunk = function funkyFunction()
