@@ -21,6 +21,10 @@ const two = 2;
 
 var theFunk = funkyFunction(); 
 
+var funkyFunction = function() { return function() {
+ return "FUNKY!"};
+};
+
 var funkyFunction = function() {return "FUNKY!"};
 function theFunk()
   
