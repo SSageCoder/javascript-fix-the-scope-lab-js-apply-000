@@ -13,14 +13,10 @@ const n = 657;
 const two = 2;
   // Feel free to move things around!
 
-var funkyFunction = function return {funkyFunction() {return "FUNKY!"}}
+var funkyFunction = function return {function() {return "FUNKY!"}}
 
 
 var theFunk = function funkyFunction()
-
-
-  
-
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
