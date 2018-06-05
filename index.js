@@ -1,6 +1,9 @@
 
 function myAnimal() {var myAnimal = 'dog'; return myAnimal}
 
+var theFunk = function funkyFunction() {return "FUNKY!"};
+
+function funkyFunction()
 function yourAnimal() {var yourAnimal = "cat"; return yourAnimal}
   // How can we make sure that this function
   // and the above function both pass?
@@ -20,3 +23,4 @@ const two = 2;
 // NOTE: you only need to modify the code below this line.
 
 var theFunk = function funkyFunction() {return "FUNKY!"};
+var funkyFunction()
