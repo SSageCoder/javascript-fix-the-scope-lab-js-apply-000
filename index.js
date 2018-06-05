@@ -21,6 +21,12 @@ const two = 2;
 
 
 
-var funkyFunction = function(){return "FUNKY!"};
-function theFunk = function funkyFunction(){{ return "FUNKY!"}
+
+function theFunk = function funkyFunction(){var funkyFunction = function(){return "FUNKY!"};{ return "FUNKY!"}
+
+function funkyFunction() 
+
+var funkyFunction = function() var theFunk = funkyFunction(); { return function() {
+ return "FUNKY!"};
+};
   
