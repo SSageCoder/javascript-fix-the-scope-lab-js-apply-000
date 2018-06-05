@@ -15,10 +15,9 @@ const two = 2;
 
 function funkyFunction() {var funkyFunction ={return "FUNKY!"}
 
-theFunk = 
 
-(){var theFunk = function funkyFunction() };return "FUNKY!"}
-var theFunk = function funkyFunction() {return "FUNKY!"; {return "FUNKY!"}}
+var theFunk = function funkyFunction()
+
 
   
 
