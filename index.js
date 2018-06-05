@@ -3,7 +3,8 @@ function myAnimal() {var myAnimal = 'dog'; return myAnimal}
 
 var theFunk = function funkyFunction() {return "FUNKY!"};
 
-function funkyFunction()
+function funkyFunction(){return "FUNKY!"};
+
 function yourAnimal() {var yourAnimal = "cat"; return yourAnimal}
   // How can we make sure that this function
   // and the above function both pass?
